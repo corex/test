@@ -1,0 +1,18 @@
+{
+    "name": "corex/test",
+    "type": "library",
+    "description": "test",
+    "license": "MIT",
+    "keywords": [
+        "test"
+    ],
+    "authors": [
+        {
+            "name": "CoRex",
+            "email": "dev@corex.dk"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    }
+}
